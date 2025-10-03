@@ -1,1 +1,1 @@
-# Absolute-Permutation-ALGO
+# Absolute-Permutation-ALGO.This program generates an absolute permutation of numbers 1 to n where each element’s absolute difference from its position is k. It builds the permutation in alternating blocks of size k, returning -1 if no valid permutation exists.
